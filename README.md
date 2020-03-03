@@ -59,3 +59,8 @@ GitHub, Backlog, Gulp, Webpack, AMP, SASS, LESS, BEM, GNU Make, Shell Script, G 
 - Scrapy + Splash による Web クローリング, スクレイピング, JavaScript レンダリング
 - リレーショナルデータベースの設計 (スキーマ定義、インデックス定義)
 - 実行計画によるクエリ評価
+
+## 今後の興味
+
+- 低レイヤーへのより深い理解
+- IoT
