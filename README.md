@@ -46,9 +46,9 @@ Scrapy Cloud, Splash
 
 Elastic Beanstalk, RDS, S3, API Gateway, Lambda, Cognito, CloudWatch Logs
 
-#### その他
+### その他
 
-GitHub, Backlog, Gulp, Webpack, AMP, SASS, LESS, BEM, GNU Make, Shell Script, G Suite, Google Analytics, Google Search Console, Googel Tag Manager, Google Optimize
+GitHub, Backlog, Algolia, Gulp, Webpack, AMP, SASS, LESS, BEM, GNU Make, Shell Script, G Suite, Google Analytics, Google Search Console, Googel Tag Manager, Google Optimize
 
 ## 価値発揮できるポイント
 
@@ -72,9 +72,11 @@ GitHub, Backlog, Gulp, Webpack, AMP, SASS, LESS, BEM, GNU Make, Shell Script, G 
 ### ★ モール型 EC サイトの新規開発・運用【GCP/Scrapinghub/Go/Python/JavaScript】(2019-2020)
 
 【プロジェクト概要】
+
 テナントを募集して商品を展開するショッピングモール型の EC プラットフォームの新規開発・運用を行う。完成後は既存サービスの 1 モジュールとして連携させる。
 
 【担当業務】
+
 要件定義・DB 設計・マルチクラウド設計・トランザクション設計・prod/stg/dev 環境の準備・各種運用スクリプトの整備・Go コードジェネレータの作成・テストコード整備・マーケットリサーチ機能の開発・在庫管理機能の開発・決済機能の開発・購入アプリケーションのフロントエンド開発など幅広く担当。マーケットリサーチ機能は Scrapinghub・Python・Scrapy・Splash で構築。その他は GCP(App Engnine)・Go・Echo で構築。決済には GMO Payment Gateway、検索インデックスには Algolia を利用。
 
 【学び】
@@ -86,9 +88,13 @@ GitHub, Backlog, Gulp, Webpack, AMP, SASS, LESS, BEM, GNU Make, Shell Script, G 
 
 ### ★ メディアサイトの改善【GCP/Go/JavaScript/AMP/SEO】(2019)
 
-【プロジェクト概要】自社運営メディアの PV 数 / UU 数の向上を目指した。
+【プロジェクト概要】
 
-【担当業務】表示速度の改善や構造化マークアップの導入などエンジニアリング面からメディアの改善を担当。半年間で PV 数は 700 万 PV から 1200 万 PV に、110 万 MAU から 220 万 MAU に成長。プロジェクト終了後も右肩上がりで数値は改善を続けた。具体的な担当業務は下記。
+自社運営メディアの PV 数 / UU 数の向上を目指した。
+
+【担当業務】
+
+表示速度の改善や構造化マークアップの導入などエンジニアリング面からメディアの改善を担当。半年間で PV 数は 700 万 PV から 1200 万 PV に、110 万 MAU から 220 万 MAU に成長。プロジェクト終了後も右肩上がりで数値は改善を続けた。具体的な担当業務は下記。
 
 - 構造化マークアップの導入
 - 適切な HTML タグの利用
@@ -115,9 +121,13 @@ GitHub, Backlog, Gulp, Webpack, AMP, SASS, LESS, BEM, GNU Make, Shell Script, G 
 
 ### ★ スタートアップ企業の社内ツール整備【GAS/TypeScript/Python/clasp】(2019)
 
-【プロジェクト概要】メディア運用をしていくためのコンテンツ管理ツール・リサーチツール・レポーティングツールを内製し、オペレーションコストの削減を目指した
+【プロジェクト概要】
 
-【担当業務】Python によるスクレイピングスクリプト・Google Spread Sheat・Google Docs・Google Custome Search API・Google Analytics・Google Apps Script を連携させ、メディア運営をする上でのコンテンツ管理・リサーチ・レポーティングの大部分を自動化する社内システムを開発。
+メディア運用をしていくためのコンテンツ管理ツール・リサーチツール・レポーティングツールを内製し、オペレーションコストの削減を目指した
+
+【担当業務】
+
+Python によるスクレイピングスクリプト・Google Spread Sheat・Google Docs・Google Custome Search API・Google Analytics・Google Apps Script を連携させ、メディア運営をする上でのコンテンツ管理・リサーチ・レポーティングの大部分を自動化する社内システムを開発。
 
 【学び】
 
@@ -128,9 +138,13 @@ GitHub, Backlog, Gulp, Webpack, AMP, SASS, LESS, BEM, GNU Make, Shell Script, G 
 
 ### ★ インフラ基盤の AWS への移行・リアーキテクト業務【AWS/TypeScript】(2018)
 
-【プロジェクト概要】インフラ基盤を従来のクラウドインフラから AWS へ移行することが部署単位で決定し、これに伴い既存プロダクトのリアーキテクトやマイクロサービス化を進めることになった。
+【プロジェクト概要】
 
-【担当業務】クラウドアーキテクチャの設計と提案、認証機能・ユーザプロフィール機能のマイクロサービスへの切り出し・プロトタイプ作成を担当。所属部署の方で AWS や Docker に関するナレッジベースはまだ整っていなかったので、それらの整備やメンバーの教育も実施。認証機能は Cognito・Lambda・API Gateway を利用した形にリアーキテクト、ユーザプロフィール機能は後に EKS に乗せ替えることを考慮し Beanstalk の Docker 環境を利用して構築。開発言語は学習コストと開発効率の観点からフロントエンドの Angular でも利用が広まっていた TypeScript (Node.js) をバックエンドでも採用。
+インフラ基盤を従来のクラウドインフラから AWS へ移行することが部署単位で決定し、これに伴い既存プロダクトのリアーキテクトやマイクロサービス化を進めることになった。
+
+【担当業務】
+
+クラウドアーキテクチャの設計と提案、認証機能・ユーザプロフィール機能のマイクロサービスへの切り出し・プロトタイプ作成を担当。所属部署の方で AWS や Docker に関するナレッジベースはまだ整っていなかったので、それらの整備やメンバーの教育も実施。認証機能は Cognito・Lambda・API Gateway を利用した形にリアーキテクト、ユーザプロフィール機能は後に EKS に乗せ替えることを考慮し Beanstalk の Docker 環境を利用して構築。開発言語は学習コストと開発効率の観点からフロントエンドの Angular でも利用が広まっていた TypeScript (Node.js) をバックエンドでも採用。
 
 【学び】
 
@@ -140,9 +154,13 @@ GitHub, Backlog, Gulp, Webpack, AMP, SASS, LESS, BEM, GNU Make, Shell Script, G 
 
 ### ★ 顧客関係管理(CRM)システムの開発・運用業務【PHP/Apache/PostgreSQL】(2017-2018)
 
-【プロジェクト概要】クーポン・スタンプ・DM 機能などを用いて販促を行う BtoBtoC システムの新規開発・運用業務。
+【プロジェクト概要】
 
-【担当業務】サーバーサイドは PHP/CodeIgniter、クライアントサイドは jQuery/Chart.js で開発。アーキテクチャは従来型の MVC パターン。CRM のコア機能の開発のほか、Google Analytics と連携して Chart.js を用いて描画する分析ダッシュボード機能の開発を担当。
+クーポン・スタンプ・DM 機能などを用いて販促を行う BtoBtoC システムの新規開発・運用業務。
+
+【担当業務】
+
+サーバーサイドは PHP/CodeIgniter、クライアントサイドは jQuery/Chart.js で開発。アーキテクチャは従来型の MVC パターン。CRM のコア機能の開発のほか、Google Analytics と連携して Chart.js を用いて描画する分析ダッシュボード機能の開発を担当。
 
 【学び】
 
